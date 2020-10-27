@@ -1,5 +1,15 @@
 # NLP-LL1-Parser
 
+
+![Stars](https://img.shields.io/github/stars/VedantKhairnar/NLP-LL1-Parser.svg?style=social)
+![Forks](https://img.shields.io/github/forks/VedantKhairnar/NLP-LL1-Parser.svg?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/VedantKhairnar/NLP-LL1-Parser.svg)
+![Language](https://img.shields.io/github/languages/top/VedantKhairnar/NLP-LL1-Parser.svg)
+[![Say Thanks!](https://img.shields.io/badge/Say-Thanks!-yellow.svg)](https://vedantkhairnar.ml)
+[![HitCount](http://hits.dwyl.io/VedantKhairnar/NLP-LL1-Parser.svg)](http://hits.dwyl.io/VedantKhairnar/Face-Recognition-based-Attendance-System)
+![Issues](https://img.shields.io/github/issues/VedantKhairnar/NLP-LL1-Parser)
+![PRsWelcome](https://img.shields.io/badge/PRs-welcome-informational)
+
 ``
 Relating Natural language processing (NLP) and Compiler
 ``
