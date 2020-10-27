@@ -22,7 +22,7 @@ Validating natural language sentences: Consider a natural language grammar and c
 - Change the expression in ll_parsetools.py
 - Run ll.parsetools.py
 
-## Automata
+## Grammar
 ```
 S : NP_Sg VP_Sg | NP_Pl VP_Pl
 NP : NP_Pl | NP_Sg
