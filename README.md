@@ -15,7 +15,7 @@ Relating Natural language processing (NLP) and Compiler
 ``
 
 
-Validating natural language sentenes: Consider a natural language grammar and construct the LL(1) table and check if the user entered statement is correct gramatically.
+Validating natural language sentences: Consider a natural language grammar and construct the LL(1) table and check if the user entered statement is correct gramatically.
 
 
 ## Steps to check:
