@@ -65,7 +65,7 @@ N_Pl : girls | boys | children | cars | apples | dogs
 Adj : good | bad | beautiful | innocent
 Adv : happily | sadly | nicely
 N_Sg : dog | girl | car | child | apple | elephant
-PropN_Sg : rashmi | piyumika
+PropN_Sg : vedant | ananya
 PropN_Pl : they | i
 Det_Sg : this | every | a | an
 Det_Pl : these | all
@@ -79,13 +79,13 @@ TV_Past : saw | liked | ate | shot"""
 
 
     p = get_parser(g)
-    input = 'rashmi likes apple'
+    input = 'vedant likes apple'
     input = input.split(" ")
     print ('\n'+ str(p.table)+ '\n')
     v = p.parse(input)
     print (v)
 
-    input = 'rashmi like apple'
+    input = 'vedant like apple'
     input = input.split(" ")
     print ('\n'+ str(p.table)+ '\n')
     op = p.parse(input)
